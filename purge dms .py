@@ -20,4 +20,4 @@ async def on_message(message):
                         except:
                             pass
                     
-client.run("NzMzMDA2MDI0ODYwMTA2ODMy.X5Ly8A.C4aNguWSPxQ-8mE_LYdAALRt8Ag", bot=False)
+client.run("TOKEN", bot=False)
